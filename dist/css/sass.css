@@ -1,0 +1,9 @@
+.nestedUl {
+  display: none; }
+
+li {
+  list-style-type: none; }
+
+img {
+  height: 10px;
+  width: 15px; }
