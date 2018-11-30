@@ -1,1 +1,1 @@
-https://delamol1.github.io/pluginjquery/dist
+https://delamol1.github.io/Nested-Menue-from-Object/dist.
